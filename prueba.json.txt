@@ -1,6 +1,0 @@
-{
-  "id": 1,
-  "parametro": "dias",
-  "descripcion": "dias",
-  "valor": "1"
-}
