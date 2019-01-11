@@ -1,36 +1,6 @@
 {
-                id: 1,
-                parametro: 'Dias',
-                descripcion: 'Prueba',
-                valor: '7'
-            },
-            {
-                id: 2,
-                parametro: 'Meses',
-                descripcion: 'Mas',
-                valor: '12'
-            },
-            {
-                id: 2,
-                parametro: 'Meses',
-                descripcion: 'Mas',
-                valor: '12'
-            },
-            {
-                id: 2,
-                parametro: 'Meses',
-                descripcion: 'Mas',
-                valor: '12'
-            },
-            {
-                id: 2,
-                parametro: 'Meses',
-                descripcion: 'Mas',
-                valor: '12'
-            },
-            {
-                id: 2,
-                parametro: 'Meses',
-                descripcion: 'Mas',
-                valor: '12'
-            }
+                "id": 1,
+                "parametro": "Dias",
+                "descripcion": "Prueba",
+                "valor": "7"
+ }
